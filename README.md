@@ -14,4 +14,3 @@ c) Al descomentar las lineas indicadas, cambiaron considerablemente los valores 
 
 
 2)c) Código funcionando del inciso a):
-![Captura de pantalla_TP3](https://github.com/SantinoGullacci/ASO2024TPs/assets/166406463/ddd9c65a-5cee-4ad0-ad4d-cafec1ad61d6)
