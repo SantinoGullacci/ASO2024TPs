@@ -11,3 +11,7 @@ b) Comparando la ejecución de sinhilos.py en mi caso obtuve una media de 6 segu
 
 
 c) Al descomentar las lineas indicadas, cambiaron considerablemente los valores finales y los segundos tomados. Mientras que en el primer caso, con las lineas comentadas, obtuve las 10 veces un valor final de 0 y un tiempo tomado de 0,... cuando las comenté obtuve valores finales muy variados como -230225 o 128115 y segundos tomados entre 22 y 41. Esto ocurre por un error conocido como "Race Condition" que sucede cuando el resultado de ejecución es dependiente de una secuencia de eventos que se ejecutan en orden arbitrario y van a trabajar sobre un mismo recurso compartido, dichos eventos no se ejecutan en el orden que el programador esperaba.
+
+
+2)c) Código funcionando del inciso a):
+![Captura de pantalla_TP3](https://github.com/SantinoGullacci/ASO2024TPs/assets/166406463/ddd9c65a-5cee-4ad0-ad4d-cafec1ad61d6)
