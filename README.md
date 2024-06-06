@@ -15,7 +15,7 @@ c) Al descomentar las lineas indicadas, cambiaron considerablemente los valores 
 
 2)c) Código funcionando del inciso a):
 ![Captura de pantalla_TP3](https://github.com/SantinoGullacci/ASO2024TPs/assets/166406463/369f7ac2-4f7d-424f-963b-da05c6634af6)
-
+ACLARACIÓN: El código modificado se encuentra en la carpeta TP3 de este mismo Git, lo que se ve en la imagen es solo el código corriendo.
 
 Imagen del inciso b):
 ![figurahamburguesas](https://github.com/SantinoGullacci/ASO2024TPs/assets/166406463/9c984cfd-d826-4fee-9c61-b3a561e20267)
