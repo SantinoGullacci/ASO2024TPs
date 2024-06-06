@@ -18,4 +18,4 @@ c) Al descomentar las lineas indicadas, cambiaron considerablemente los valores 
 ACLARACIÓN: El código modificado se encuentra en la carpeta TP3 de este mismo Git, lo que se ve en la imagen es solo el código corriendo.
 
 Imagen del inciso b):
-![figurahamburguesas](https://github.com/SantinoGullacci/ASO2024TPs/assets/166406463/9c984cfd-d826-4fee-9c61-b3a561e20267)
+![2c inciso b](https://github.com/SantinoGullacci/ASO2024TPs/assets/166406463/8378c7a2-dc16-41e7-9bec-27f49b33d6d1)
